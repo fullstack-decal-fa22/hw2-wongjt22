@@ -143,11 +143,22 @@ h2 {
 }
 
 .mexico-img {
-  /* TODO */
+  align-self: center; 
+  max-width: 33.3%;
 }
 
 .mexico-red {
   background-color: #ce1126;
+}
+
+.label {
+  color: gold;
+  font-size: 25px;
+}
+
+.label:hover {
+  color: goldenrod;
+  font-size: 28px;
 }
 
 /* QUESTION 6 */
@@ -163,17 +174,18 @@ h2 {
 /* For margin practice */
 .flag1 {
   background-color: red;
-  /* TODO */
+  margin-right: 10px;
 }
 
 .flag2 {
   background-color: blue;
-  /* TODO */
+  margin-right: 10px;
 }
+
 /* For padding practice */
 .padding-container {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  /* TODO */
+  padding: 60px;
 }
