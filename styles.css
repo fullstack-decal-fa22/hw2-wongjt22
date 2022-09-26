@@ -32,6 +32,7 @@ h2 {
 }
 
 .threevert {
+  height: 33.3%;
 }
 
 .threehoriz {
@@ -75,7 +76,7 @@ h2 {
   background-color: blue;
 }
 
-.lightblue {
+.light-blue {
   background-color: lightblue;
 }
 
@@ -91,18 +92,31 @@ h2 {
   background-color: #000;
 }
 
+#white {
+  background-color: white;
+}
+
+.red {
+  background-color: #f03441;
+}
+
 /* BEGIN QUESTION 2 */
 
 .thailand-red {
-  /* TODO */
+  background-color: #B5002D;
+  height: 16.7%;
 }
 
 .thailand-white {
   /* TODO */
+  background-color: #fff;
+  height: 16.7%;
 }
 
 .thailand-blue {
   /* TODO */
+  background-color: #2E2A4C;
+  height: 33.3%;
 }
 
 /* END QUESTION 2 */
